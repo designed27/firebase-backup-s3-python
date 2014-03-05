@@ -2,7 +2,7 @@ Backup Firebase data to AWS S3
 ==============================
 
 Using python, you can automatically (with cron or heroku scheduler) backup all
-your Firebase data and store it savely on AWS S3.
+your Firebase data and store it safely on AWS S3.
 
 The result is a new .json file in your S3 bucket whenever you run this script.
 
